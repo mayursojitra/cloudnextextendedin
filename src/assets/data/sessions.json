@@ -1,0 +1,58 @@
+[
+    {
+        "id": "101",
+        "slide":"",
+        "title": "Welcome Keynote",
+        "description": "",
+        "track": "Industry Insights",
+        "link": "",
+        "format": "Keynote",
+        "date": "July 19th, 2020",
+        "timeDuration": "10",
+        "speakers": [
+            101
+        ]
+    },
+    {
+        "id": "102",
+        "slide":"",
+        "title": "Google Cloud Platform: A Tour into recent features and What to expect from Google Cloud Next",
+        "description": "Google Cloud Platform has seen significant momentum in the last year with key platform differentiators and a growing customer base. This talk takes you through a whirlwind tour of key GCP differentiators and some key features that have been released over the last several months.",
+        "track": "Industry Insights",
+        "link": "https://www.youtube.com/embed/GNoWmNBrDPU",
+        "format": "Talk",
+        "date": "July 19th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            102
+        ]
+    },
+    {
+        "id": "103",
+        "slide":"",
+        "title": "Only with Apps Script",
+        "description": "With most businesses adapting G Suite to collaborate and optimize their workflows, there's an opportunity for makers to use it's low-code developer platform and leverage its capabilities to build things that can only be done using the Apps Script ecosystem viz. Add-ons & Data Studio Community Connectors.",
+        "track": "Productivity & Collaboration",
+        "link": "https://www.youtube.com/embed/7ccB_aHnSJo",
+        "format": "Talk",
+        "date": "July 25th, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            103
+        ]
+    },
+    {
+        "id": "104",
+        "slide":"",
+        "title": "Reimagine Work with AI/ ML, Chatbots, & Connected Systems over G Suite",
+        "description": "This talk will enable businessmen to do \"EVERYTHING\" on G Suite, Google's Productivity, and Collaboration Suite. A complete Google Solution can lead to up to 2/3rd savings on Technology and up to 10X increase in productivity for organizations. In this talk, we shall focus on AI/ML facilities in G Suite, Chat Rooms, and Chatbots on Google Chat and how you can truly transform work by connecting your ERP/ CRM with G Suite and live and breath completely on Cloud.",
+        "track": "Productivity & Collaboration",
+        "link": "https://www.youtube.com/embed/EFIPgkQLp98",
+        "format": "Talk",
+        "date": "July 26th, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            104
+        ]
+    }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Mayur Sojitra",
+    "community": {
+      "name": "GDG Surat",
+      "designation": "Community Organizer"
+    },
+    "company": {
+      "name": "Murait Technologies",
+      "designation": "Founder & Full Stack Developer"
+    },
+    "image": "mayur.jpg",
+    "bio": "Mayur Sojitra is Full Stack Developer and Founder of Murait Technologies and have a expertise in multiple technologies. Having 6+ years of experience. Community Leader of Google Developers Group Surat, VueJS Surat and Laravel Surat.",
+    "social": {
+      "twitter": "https://twitter.com/mayur_sojitra",
+      "linkedin": "https://www.linkedin.com/in/mayursojitra"
+    }
+  },
+  {
+    "name": "Parth Jansari",
+    "community": {
+      "name": "GDG Gandhinagar",
+      "designation": "Community Organizer"
+    },
+    "company": {
+      "name": "Stimulus",
+      "designation": "Sr. Frontend Developer"
+    },
+    "image": "parth.jpg",
+    "bio": "I'm a guy who's trying to grow up & do mature stuff but ends up making cool stuff or designing/coding. flutter and angular enthusiast.",
+    "social": {
+      "twitter": "https://twitter.com/jansariparth",
+      "linkedin": ""
+    }
+  },
+  {
+    "name": "Harsh Shah",
+    "community": {
+      "name": "GDG Cloud Ahmedabad",
+      "designation": "Community Organizer"
+    },
+    "company": {
+      "name": "Pedals Up",
+      "designation": "Tech Lead"
+    },
+    "image": "harsh.jpg",
+    "bio": "I am a full-stack & DevOps engineer. I am also a technical consultant to many startups. I was a Two-time GSoCer (Google summer of Code) Intern with Wikimedia & KDE. FOSS lover. I am currently Tech-Lead at PedalsUp. I have been working with Pycon ACAP and was invited to give talks by GDG Udaipur, Google India Web Summit 2019, Facebook Dev circle Hyd 2020, many more places. I worked in more than 4 product-based startups. I am Organizer of the PyData Ahmedabad Community and Co-Organiser of Google Cloud Community.",
+    "social": {
+      "twitter": "https://twitter.com/harshcrop",
+      "linkedin": "https://linkedin.com/in/harshcrop"
+    }
+  },
+  {
+    "name": "Tushar Pal",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Community Organizer"
+    },
+    "company": {
+      "name": "Protonshub",
+      "designation": "Co-Founder & CTO"
+    },
+    "image": "tushar.jpg",
+    "bio": "Tushar Pal is CTO and Cofounder of Protonshub Technologies and having a expertise in multiple technologies.He is also product consultant at Diaspark Infotech to helping out a best product. Community Leader of Google Cloud Developer Community,Indore and Google Developers Group,Indore. There is something special when career and passion comes together. No excuses to yourself because reality is wrong and dreams are real  He is very big ambition to build the biggest ecosystem in a town which helps us to grow our careers and build a stronger network.",
+    "social": {
+      "twitter": "https://twitter.com/tpal94",
+      "linkedin": "https://www.linkedin.com/in/tushar-p-325b5869/"
+    }
+  },
+  {
+    "name": "Akshay Malviya",
+    "community": {
+      "name": "GDG Cloud Indore",
+      "designation": "Community Organizer"
+    },
+    "company": {
+      "name": "Diaspark Inc.",
+      "designation": "Software Engineer"
+    },
+    "image": "akshay.jpg",
+    "bio": "Software Egineer | Community Organizer",
+    "social": {
+      "twitter": "https://twitter.com/imakshaymalviya",
+      "linkedin": "https://www.linkedin.com/in/akshaymalviya"
+    }
+  },
+  {
+    "name": "Hiren Dave",
+    "community": {
+      "name": "GDG Ahmedabad",
+      "designation": "Co-Organizer"
+    },
+    "company": {
+      "name": "AbhayTech Solutions LLP.",
+      "designation": "CTO"
+    },
+    "image": "Hiren_Dave.jpg",
+    "bio": "CTO, Tech Author, Blogger and Speaker",
+    "social": {
+      "twitter": "https://twitter.com/hjdave",
+      "linkedin": "https://www.linkedin.com/in/davehiren"
+    }
+  },
+  {
+    "name": "Mehul Patel",
+    "community": {
+      "name": "GDG Nasik",
+      "designation": "Organizer"
+    },
+    "company": {
+      "name": "Internauts Foundation",
+      "designation": "Founder"
+    },
+    "image": "mehul.jpeg",
+    "bio": "Product Manager | Blogger | Tech Speaker ",
+    "social": {
+      "twitter": "https://twitter.com/rowdymehul",
+      "linkedin": "https://www.linkedin.com/in/rowdymehul"
+    }
+  },
+  {
+    "name": "Dron Trivedi",
+    "community": {
+      "name": "GDG Baroda",
+      "designation": "Team Member"
+    },
+    "company": {
+      "name": "Trivedi Media Group",
+      "designation": "Founder"
+    },
+    "image": "Dron_Trivedi.jpg",
+    "bio": "I am an independent video content creator from vadodara even tho i am from i am from computer background i dont know how to write a single line of code. but i am preety handy with and behind the camera. and also with editing.",
+    "social": {
+      "twitter": "https://twitter.com/trivedidron",
+      "linkedin": "https://www.linkedin.com/in/drontrivedi/"
+    }
+  },
+  {
+    "name": "Sohail Pathan",
+    "community": {
+      "name": "GDG Nagpur",
+      "designation": "Co-Organizer"
+    },
+    "company": {
+      "name": "Coding Blocks",
+      "designation": "Program Manager"
+    },
+    "image": "maleAvatar.jpg",
+    "bio": "Program Manager and like to build apps :)",
+    "social": {
+      "twitter": "https://twitter.com/iamspathan",
+      "linkedin": "https://www.linkedin.com/in/iamspathan"
+    }
+  },
+  {
+    "name": "Dhara vihol",
+    "community": {
+      "name": "WTM Ahmedabad",
+      "designation": "Co-Ambassador"
+    },
+    "company": {
+      "name": "Inkredo",
+      "designation": "UI/UX, Frontend Engineer"
+    },
+    "image": "dhara_vihol.jpg",
+    "bio": "I am a Frontend developer, JavaScript Lover and A newbie in UI/UX development",
+    "social": {
+      "twitter": "https://twitter.com/Dhara_MSD",
+      "linkedin": "https://www.linkedin.com/in/dhara-vihol/"
+    }
+  },
+  {
+    "name": "Sanjay Ramani",
+    "community": {
+      "name": "GDG Surat",
+      "designation": "Event Organizer"
+    },
+    "company": {
+      "name": "Raksh Infotech",
+      "designation": "Founder"
+    },
+    "image": "sanjay.png",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/sanjayvramani",
+      "linkedin":"https://www.linkedin.com/in/sanjayvramani/"
+    }
+  },
+  {
+    "name": "Ramya Kappagantu",
+    "community": {
+      "name": "WTM Nagpur",
+      "designation": "Ambassador"
+    },
+    "company": {
+      "name": "Oracle",
+      "designation": "Software Engineer"
+    },
+    "image": "ramya.jpg",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/sanjayvramani"
+    }
+  }
+]

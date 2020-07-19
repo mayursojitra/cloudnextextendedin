@@ -1,0 +1,40 @@
+[
+    {
+        "day": "1",
+        "date": "July 19th 2020, Sunday",
+        "schedule": [
+            {
+                "startTime": "03:00",
+                "endTime": "03:10",
+                "session": 101
+            },
+            {
+                "startTime": "03:10",
+                "endTime": "03:40",
+                "session": 102
+            }
+        ]
+    },
+    {
+        "day": "2",
+        "date": "July 25th 2020, Sunday",
+        "schedule": [
+            {
+                "startTime": "11:00",
+                "endTime": "11:40",
+                "session": 103
+            }
+        ]
+    },
+    {
+        "day": "3",
+        "date": "July 26th 2020, Sunday",
+        "schedule": [
+            {
+                "startTime": "11:00",
+                "endTime": "11:40",
+                "session": 104
+            }
+        ]
+    }
+]

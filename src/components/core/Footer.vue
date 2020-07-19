@@ -1,0 +1,96 @@
+<template>
+  <v-footer app inset padless absolute>
+    <v-container
+      fluid
+      :class="
+        this.$vuetify.theme.dark == true ? 'grey darken-4' : 'grey lighten-4'
+      "
+    >
+      <v-row justify="center" align="center">
+        <v-col md="10" sm="11" xl="10" cols="12">
+          <v-card-text class="mx-0 px-0" style="height: 40px; position: relative">
+            <v-fab-transition>
+              <v-btn
+                aria-label="FAB Button"
+                style="margin-top:-20px"
+                :color="this.$vuetify.theme.dark ? 'primary' : 'white'"
+                :dark="this.$vuetify.theme.dark?true:false"
+                absolute
+                top
+                right
+                fab
+                @click="toTop"
+              >
+                <v-icon>mdi-chevron-up</v-icon>
+              </v-btn>
+            </v-fab-transition>
+            <h1
+              class="google-font"
+              :class="
+                $vuetify.theme.dark == true
+                  ? 'white--text'
+                  : 'grey--text text--darken-2'
+              "
+            >Google Cloud Next Extended'20</h1>
+          </v-card-text>
+        </v-col>
+      </v-row>
+      <v-row justify="center" align="center">
+        <v-col md="10" sm="11" xl="10" cols="12">
+       <a href="https://cloud.withgoogle.com/next/sf" target="_blank"
+            rel="noreferrer"
+            :class="
+                $vuetify.theme.dark == true
+                  ? 'white--text'
+                  : 'grey--text text--darken-3'
+              "
+            class="mr-3 google-font"
+            style="text-decoration:none;"
+          >Google Cloud Next</a>
+          <router-link
+            to="/faq"
+            rel="noreferrer"
+            :class="
+                $vuetify.theme.dark == true
+                  ? 'white--text'
+                  : 'grey--text text--darken-3'
+              "
+            class="mr-3 google-font"
+            style="text-decoration:none;"
+          >FAQ</router-link>
+            <a href="https://developers.google.com" target="_blank"
+            rel="noreferrer"
+            :class="
+                $vuetify.theme.dark == true
+                  ? 'white--text'
+                  : 'grey--text text--darken-3'
+              "
+            class="mr-3 google-font"
+            style="text-decoration:none;"
+          >Google Developers</a>
+          <span style="float:right"> Build by <a href="https://webdevlivein.web.app/" target="_blank"
+            rel="noreferrer"
+            :class="
+                $vuetify.theme.dark == true
+                  ? 'white--text'
+                  : 'grey--text text--darken-3'
+              "
+            class="mr-3 google-font"
+            style="text-decoration:none;"
+          >Web.dev Live India Team</a></span>
+        </v-col>
+      </v-row>
+    </v-container>
+  </v-footer>
+</template>
+
+<script>
+export default {
+  name: "Footer",
+  methods: {
+    toTop() {
+      this.$vuetify.goTo(0);
+    }
+  }
+};
+</script>

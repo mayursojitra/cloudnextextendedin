@@ -1,0 +1,64 @@
+{
+    "communities":[
+        {
+            "name": "GDG Ahmedabad",
+            "image": "GDG-Ahmedabad.png",
+            "meetup": "https://www.meetup.com/GDG-Ahmedabad/"
+        },
+        {
+            "name": "GDG Baroda",
+            "image": "GDG-Baroda.png",
+            "meetup": "https://www.meetup.com/gdgbaroda/"
+        },
+        {
+            "name": "GDG Cloud Ahmedabad",
+            "image": "GDG-Cloud-Ahmedabad.png",
+            "meetup": "https://www.meetup.com/gdgcloudahm/"
+        },
+        {
+            "name": "GDG Cloud Indore",
+            "image": "GDG-Cloud-Indore.png",
+            "meetup": "https://www.meetup.com/Google-Cloud-Developer-Community-Indore/"
+        },
+        {
+            "name": "GDG Cloud Mumbai",
+            "image": "GDG-Cloud-Mumbai.png",
+            "meetup": "https://www.meetup.com/Google-Cloud-Developer-Community-Mumbai/"
+        },
+        {
+            "name": "GDG Gandhinagar",
+            "image": "GDG-Gandhinagar.png",
+            "meetup": "https://www.meetup.com/GDG-Gandhinagar/"
+        },
+        {
+            "name": "GDG Goa",
+            "image": "GDG-Goa.png",
+            "meetup": "https://www.meetup.com/GoogleGoa/"
+        },
+        {
+            "name": "GDG Indore",
+            "image": "GDG-Indore.png",
+            "meetup": "https://www.meetup.com/GDGIndore/"
+        },
+        {
+            "name": "GDG MAD",
+            "image": "GDG-MAD.png",
+            "meetup": "https://www.meetup.com/gdg-mad/"
+        },
+        {
+            "name": "GDG Nagpur",
+            "image": "GDG-Nagpur.png",
+            "meetup": "https://www.meetup.com/GDG-Nagpur/"
+        },
+        {
+            "name": "GDG Nashik",
+            "image": "GDG-Nashik.png",
+            "meetup": "https://www.meetup.com/GDG-Nashik/"
+        },
+        {
+            "name": "GDG Surat",
+            "image": "GDG-Surat.png",
+            "meetup": "https://www.meetup.com/GDG_Surat/"
+        }
+    ]
+}

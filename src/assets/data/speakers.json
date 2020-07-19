@@ -1,0 +1,69 @@
+[
+    {
+        "id": "102",
+        "name": "Romin Irani",
+        "company": {
+            "name": "Google",
+            "designation": "Partner Engineer"
+        },
+        "bio": "Romin Irani works as a Partner Engineer in the Google Cloud team, where his role is to make partners successful with GCP. He has a total of 25-years experience in the software industry across different roles and he has miles to go as he looks forward to the next 25 years.",
+        "image": "romin.png",
+        "sessionId": [
+            102
+        ],
+        "social": {
+            "twitter": "https://twitter.com/iRomin",
+            "linkedin": "https://www.linkedin.com/in/iromin/"
+        }
+    },
+    {
+        "id": "101",
+        "name": "Mayur Sojitra",
+        "company": {
+          "name": "Murait Technologies",
+          "designation": "Founder & Full Stack Developer"
+        },
+        "image": "mayur.jpg",
+        "bio": "Mayur Sojitra is Full Stack Developer and Founder of Murait Technologies and have a expertise in multiple technologies. Having 6+ years of experience. Community Leader of Google Developers Group Surat, VueJS Surat and Laravel Surat.",
+        "social": {
+          "twitter": "https://twitter.com/mayur_sojitra",
+          "linkedin": "https://www.linkedin.com/in/mayursojitra"
+        },
+        "sessionId": [
+            101
+        ]
+    },
+    {
+        "id": "103",
+        "name": "Sourabh Choraria",
+        "company": {
+          "name": "GDE",
+          "designation": "G Suite"
+        },
+        "image": "saurabh.jpg",
+        "bio": "G Suite GDE",
+        "social": {
+          "twitter": "https://twitter.com/schoraria911"
+        },
+        "sessionId": [
+            103
+        ]
+    },
+    {
+        "id": "104",
+        "name": "Shashank Todwal",
+        "company": {
+          "name": "UMS Tech Labs",
+          "designation": "Founder"
+        },
+        "image": "shashank.jpeg",
+        "bio": "Shashank Todwal has pursued B.E. (Hons.) Computer Science Engineering & M.Sc. (Hons.)Physics from BITS Pilani University. Before starting UMS Tech Labs, a Google Cloud Partner, Shashank worked for Google and interned under the guidance of renowned ProfessorRamakrishna Kakarala of Singapore, recipient of 26 US Patents.",
+        "social": {
+          "twitter": "https://twitter.com/schoraria911",
+          "linkedin":"https://www.linkedin.com/in/shashanktodwal/"
+        },
+        "sessionId": [
+            104
+        ]
+    }
+]
