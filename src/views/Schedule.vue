@@ -44,6 +44,12 @@
                 <v-tab href="#day3">
                   26 July
                 </v-tab>
+                <v-tab href="#day4">
+                  1 August
+                </v-tab>
+                <v-tab href="#day5">
+                  2 August
+                </v-tab>
               </v-tabs>
             </template>
           </v-toolbar>
@@ -66,8 +72,6 @@
                     <p class="google-font" style="text-align:justify;">
                       Insights from Google Cloud executives, focusing on transformational efforts across industries working with customers and ecosystem partners.
                     </p>
-              <!-- <ComingSoon /> -->
-
                     <ScheduleDetails :data="ScheduleData[0]" />
                   </v-col>
                 </v-row>
@@ -81,7 +85,6 @@
                     <p class="google-font" style="text-align:justify;">
                       Change the way teams work with solutions designed for humans and built for impact.
                     </p>
-              <!-- <ComingSoon /> -->
                     <ScheduleDetails :data="ScheduleData[1]" />
                   </v-col>
                 </v-row>
@@ -95,9 +98,33 @@
                     <p class="google-font" style="text-align:justify;">
                       Change the way teams work with solutions designed for humans and built for impact.
                     </p>
-              <!--<ComingSoon />-->
-
                     <ScheduleDetails :data="ScheduleData[2]" />
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item value="day4" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Infrastructure</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Migrate and modernize workloads on Google's global, secure, and reliable infrastructure.
+                    </p>
+                    <ComingSoon :data="'1st August, 2020'"/>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item value="day5" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Infrastructure</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Migrate and modernize workloads on Google's global, secure, and reliable infrastructure.
+                    </p>
+                    <ComingSoon :data="'2nd August, 2020'"/>
                   </v-col>
                 </v-row>
               </v-container>
@@ -122,11 +149,11 @@ export default {
   name: "",
   components: {
     ScheduleDetails,
-    //ComingSoon:()=>import('@/components/common/ComingSoon'),
+    ComingSoon:()=>import('@/components/common/ComingSoon'),
     SocialShare: () => import("@/components/common/SocialShare")
   },
   data: () => ({
-    model: "day1",
+    model: "day2",
     ScheduleData: [],
   }),
   mounted() {
