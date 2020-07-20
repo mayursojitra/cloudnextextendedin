@@ -219,5 +219,39 @@
       "twitter": "https://twitter.com/DRVaya",
       "linkedin":"https://linkedin.com/in/dharmeshvaya/"
     }
+  },
+  {
+    "name": "Maitreyi",
+    "community": {
+      "name": "GDG Cloud Mumbai",
+      "designation": "Co-Organizer"
+    },
+    "company": {
+      "name": "Vimana",
+      "designation": "Software Engineer"
+    },
+    "image": "",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/maitreyi_kv",
+      "linkedin":"https://www.linkedin.com/in/maitreyi-kv/"
+    }
+  },
+  {
+    "name": "Kartik Derasari",
+    "community": {
+      "name": "GDG Cloud Ahmedabad",
+      "designation": "Co-Organizer"
+    },
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Kartik_Derasari.jpg",
+    "bio": "Kartik is a passionate Community Builder, shaping developer communities from the past two years. He is leading GDG Cloud Ahmedabad as a Co-Organizer and managing student developer communities namely Silver Oak University IEEE Student Branch and Industry Relations Team at IEEE India Council. He is a Product Builder & Evangelist at Arkeytec and he has been a Microsoft Student Partner, and a Google AI | Explore ML Facilitator.",
+    "social": {
+      "twitter": "https://twitter.com/kartik_derasari",
+      "linkedin":"https://www.linkedin.com/in/kartikderasari/"
+    }
   }
 ]
