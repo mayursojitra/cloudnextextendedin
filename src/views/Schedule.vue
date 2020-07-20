@@ -111,7 +111,7 @@
                     <p class="google-font" style="text-align:justify;">
                       Migrate and modernize workloads on Google's global, secure, and reliable infrastructure.
                     </p>
-                    <ComingSoon :data="'1st August, 2020'"/>
+                    <ComingSoon :data="'26th July, 2020'"/>
                   </v-col>
                 </v-row>
               </v-container>
@@ -124,7 +124,7 @@
                     <p class="google-font" style="text-align:justify;">
                       Migrate and modernize workloads on Google's global, secure, and reliable infrastructure.
                     </p>
-                    <ComingSoon :data="'2nd August, 2020'"/>
+                    <ComingSoon :data="'26th July, 2020'"/>
                   </v-col>
                 </v-row>
               </v-container>
