@@ -199,6 +199,23 @@
     "image": "ramya.jpg",
     "bio": "",
     "social": {
+      "twitter": "https://twitter.com/ramyaK122",
+      "linkedin":"https://www.linkedin.com/in/ramya-kappagantu-a588a6162/"
+    }
+  },
+  {
+    "name": "Dharmesh Vaya",
+    "community": {
+      "name": "GDG Cloud Mumbai",
+      "designation": "Organizer"
+    },
+    "company": {
+      "name": "Agrahyah Technologies",
+      "designation": "Director - Technology"
+    },
+    "image": "dharmesh.png",
+    "bio": "GDE Cloud/Payments",
+    "social": {
       "twitter": "https://twitter.com/sanjayvramani"
     }
   }
