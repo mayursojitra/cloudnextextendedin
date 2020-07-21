@@ -253,5 +253,22 @@
       "twitter": "https://twitter.com/kartik_derasari",
       "linkedin":"https://www.linkedin.com/in/kartikderasari/"
     }
+  },
+  {
+    "name": "Nirav Kothari",
+    "community": {
+      "name": "GDG Cloud Mumbai",
+      "designation": "Co-Organizer"
+    },
+    "company": {
+      "name": "Xoriant Solutions",
+      "designation": "Sr Technical Lead"
+    },
+    "image": "nirav_kothari.jpg",
+    "bio": "Learn Share and Learn",
+    "social": {
+      "twitter": "https://twitter.com/iNiravKothari",
+      "linkedin": "https://www.linkedin.com/in/iniravkothari"
+    }
   }
 ]
