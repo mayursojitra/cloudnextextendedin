@@ -50,6 +50,12 @@
                 <v-tab href="#day5">
                   2 August
                 </v-tab>
+                <v-tab href="#day6">
+                  8 August
+                </v-tab>
+                <v-tab href="#day7">
+                  9 August
+                </v-tab>
               </v-tabs>
             </template>
           </v-toolbar>
@@ -125,6 +131,32 @@
                       Migrate and modernize workloads on Google's global, secure, and reliable infrastructure.
                     </p>
                     <ComingSoon :data="'26th July, 2020'"/>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item value="day6" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Security</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Detect, investigate, and respond to online threats to help protect your business.
+                    </p>
+                    <ComingSoon :data="'30th July, 2020'"/>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item value="day7" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Security</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Detect, investigate, and respond to online threats to help protect your business.
+                    </p>
+                    <ComingSoon :data="'30th July, 2020'"/>
                   </v-col>
                 </v-row>
               </v-container>
