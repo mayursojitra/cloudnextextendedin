@@ -54,10 +54,10 @@
       </v-row>
     </v-container>
 
-    <v-container fluid class>
-      <v-row align="center" justify="center">
-        <v-col md="8" lg="7" xl="5" sm="11">
-          <SocialShare />
+    <v-container fluid>
+      <v-row justify="center" align="center">
+        <v-col md="8" xl="7">
+          <SocialShare/>
         </v-col>
       </v-row>
     </v-container>

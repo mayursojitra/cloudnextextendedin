@@ -4,7 +4,7 @@
       <v-col cols="12" md="12" lg="12" xl="12">
         <p class="google-font" offset-cols="1" :class="this.$vuetify.theme.dark?'white--text':'grey--text text--darken-2'" style="font-weight: 350;font-size:200%">Community Partners</p>
       </v-col>
-      <v-col cols="3" md="3" lg="3" xl="3" v-for="(itemp,i) in communities" :key="i">
+      <v-col cols="3" md="6" lg="3" xl="3" sm="6" v-for="(itemp,i) in communities" :key="i">
             <div class="client-logo ma-0">
                 <a :href="itemp.meetup" target="_blank">
                     <v-tooltip bottom>

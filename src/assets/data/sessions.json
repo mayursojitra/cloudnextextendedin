@@ -54,5 +54,19 @@
         "speakers": [
             104
         ]
+    },
+    {
+        "id": "106",
+        "slide":"",
+        "title": "Reimagine Work with AI/ ML, Chatbots, & Connected Systems over G Suite",
+        "description": "This talk will enable businessmen to do \"EVERYTHING\" on G Suite, Google's Productivity, and Collaboration Suite. A complete Google Solution can lead to up to 2/3rd savings on Technology and up to 10X increase in productivity for organizations. In this talk, we shall focus on AI/ML facilities in G Suite, Chat Rooms, and Chatbots on Google Chat and how you can truly transform work by connecting your ERP/ CRM with G Suite and live and breath completely on Cloud.",
+        "track": "Security",
+        "link": "",
+        "format": "Talk",
+        "date": "August 16th, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            106
+        ]
     }
 ]

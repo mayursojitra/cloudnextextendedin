@@ -81,5 +81,22 @@
         "sessionId": [
             
         ]
+    },
+    {
+        "id": "106",
+        "name": "Rushabh Vasa",
+        "company": {
+          "name": "Agrahyah Technologies",
+          "designation": "Co-Founder"
+        },
+        "image": "rushabh.jpg",
+        "bio": "Rushabh Vasa is a technology entrepreneur. He's currently director in three diverse companies. He always challenges himself and his team to build technology enabled solutions that can solve problems at scale. in 2009 he founded Instinct Media, a company that pioneered in digital and web technology solutions when India had less than 50 million internet users. Today, it is ranked among top 50 Google certified digital agency in India.",
+        "social": {
+          "twitter": "https://twitter.com/rushabh69",
+          "linkedin":"https://www.linkedin.com/in/rushabhvasa/"
+        },
+        "sessionId": [
+            106
+        ]
     }
 ]

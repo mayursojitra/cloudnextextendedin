@@ -56,6 +56,9 @@
                 <v-tab href="#day7">
                   9 August
                 </v-tab>
+                <v-tab href="#day8">
+                  16 August
+                </v-tab>
               </v-tabs>
             </template>
           </v-toolbar>
@@ -69,8 +72,7 @@
           <v-tabs-items v-model="model">
             <v-tab-item
               value="day1"
-              :class="$vuetify.theme.dark ? 'black' : 'white'"
-            >
+              :class="$vuetify.theme.dark ? 'black' : 'white'">
               <v-container>
                 <v-row>
                   <v-col>
@@ -157,6 +159,19 @@
                       Detect, investigate, and respond to online threats to help protect your business.
                     </p>
                     <ComingSoon :data="'30th July, 2020'"/>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item value="day8" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Security</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Detect, investigate, and respond to online threats to help protect your business.
+                    </p>
+                    <ScheduleDetails :data="ScheduleData[7]" />
                   </v-col>
                 </v-row>
               </v-container>

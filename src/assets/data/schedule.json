@@ -36,5 +36,44 @@
                 "session": 104
             }
         ]
+    },
+    {
+        "day": "4",
+        "date": "August 1st 2020, Saturday",
+        "schedule": [
+            
+        ]
+    },
+    {
+        "day": "5",
+        "date": "August 2nd 2020, Sunday",
+        "schedule": [
+            
+        ]
+    },
+    {
+        "day": "6",
+        "date": "August 8th 2020, Saturday",
+        "schedule": [
+            
+        ]
+    },
+    {
+        "day": "7",
+        "date": "August 9th 2020, Sunday",
+        "schedule": [
+            
+        ]
+    },
+    {
+        "day": "8",
+        "date": "August 16th 2020, Sunday",
+        "schedule": [
+            {
+                "startTime": "3:00",
+                "endTime": "3:40",
+                "session": 106
+            }
+        ]
     }
 ]
