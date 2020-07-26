@@ -4,13 +4,13 @@
         "date": "July 19th 2020, Sunday",
         "schedule": [
             {
-                "startTime": "03:00",
-                "endTime": "03:10",
+                "startTime": "15:00",
+                "endTime": "15:10",
                 "session": 101
             },
             {
-                "startTime": "03:10",
-                "endTime": "03:40",
+                "startTime": "15:10",
+                "endTime": "15:40",
                 "session": 102
             }
         ]
@@ -41,7 +41,11 @@
         "day": "4",
         "date": "August 1st 2020, Saturday",
         "schedule": [
-            
+            {
+                "startTime": "15:00",
+                "endTime": "15:40",
+                "session": 105
+            }
         ]
     },
     {
@@ -67,6 +71,13 @@
     },
     {
         "day": "8",
+        "date": "August 15th 2020, Saturday",
+        "schedule": [
+
+        ]
+    },
+    {
+        "day": "9",
         "date": "August 16th 2020, Sunday",
         "schedule": [
             {

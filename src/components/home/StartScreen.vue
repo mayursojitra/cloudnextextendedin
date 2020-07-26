@@ -50,7 +50,7 @@
           </span>
         </p>
           <v-btn
-            href="https://www.meetup.com/GDG-Nashik/events/271980118/"
+            href="https://www.meetup.com/GDG-Nagpur/events/272140921/"
             target="_blank"
             aria-label="Home BTN"
             color="primary"
@@ -59,9 +59,9 @@
             depressed
             large
             dark
-          >Register for 25th July</v-btn>
+          >Register for 1st August</v-btn>
           <v-btn
-            href="https://www.meetup.com/GDG-Nashik/events/272019651/"
+            href="https://www.meetup.com/GDG-Nagpur/events/272140971/"
             target="_blank"
             aria-label="Home BTN"
             color="primary"
@@ -70,7 +70,7 @@
             depressed
             large
             dark
-          >Register for 26th July</v-btn>
+          >Register for 2nd August</v-btn>
         <v-btn
           href="https://www.youtube.com/channel/UC9wSs8WwgTzFMjI8zRjHV9w"
           target="_blank"

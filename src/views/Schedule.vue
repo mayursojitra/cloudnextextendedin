@@ -57,6 +57,9 @@
                   9 August
                 </v-tab>
                 <v-tab href="#day8">
+                  15 August
+                </v-tab>
+                <v-tab href="#day9">
                   16 August
                 </v-tab>
               </v-tabs>
@@ -119,7 +122,18 @@
                     <p class="google-font" style="text-align:justify;">
                       Migrate and modernize workloads on Google's global, secure, and reliable infrastructure.
                     </p>
-                    <ComingSoon :data="'26th July, 2020'"/>
+                    <v-btn
+                      href="https://www.meetup.com/GDG-Nagpur/events/272140921/"
+                      target="_blank"
+                      aria-label="Home BTN"
+                      color="primary"
+                      style="text-transform: capitalize;"
+                      class="google-font mr-4 mt-2"
+                      depressed
+                      large
+                      dark
+                    >Register for 1st August</v-btn>
+                    <ScheduleDetails :data="ScheduleData[3]" />
                   </v-col>
                 </v-row>
               </v-container>
@@ -132,6 +146,17 @@
                     <p class="google-font" style="text-align:justify;">
                       Migrate and modernize workloads on Google's global, secure, and reliable infrastructure.
                     </p>
+                    <v-btn
+                      href="https://www.meetup.com/GDG-Nagpur/events/272140971/"
+                      target="_blank"
+                      aria-label="Home BTN"
+                      color="primary"
+                      style="text-transform: capitalize;"
+                      class="google-font mr-4 mt-2"
+                      depressed
+                      large
+                      dark
+                    >Register for 2nd August</v-btn>
                     <ComingSoon :data="'26th July, 2020'"/>
                   </v-col>
                 </v-row>
@@ -171,7 +196,20 @@
                     <p class="google-font" style="text-align:justify;">
                       Detect, investigate, and respond to online threats to help protect your business.
                     </p>
-                    <ScheduleDetails :data="ScheduleData[7]" />
+                    <ComingSoon :data="'2nd August, 2020'"/>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item value="day9" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Security</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Detect, investigate, and respond to online threats to help protect your business.
+                    </p>
+                    <ScheduleDetails :data="ScheduleData[8]" />
                   </v-col>
                 </v-row>
               </v-container>
@@ -200,7 +238,7 @@ export default {
     SocialShare: () => import("@/components/common/SocialShare")
   },
   data: () => ({
-    model: "day2",
+    model: "day4",
     ScheduleData: [],
   }),
   mounted() {

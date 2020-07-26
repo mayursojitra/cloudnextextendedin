@@ -56,10 +56,24 @@
         ]
     },
     {
+        "id": "105",
+        "slide":"",
+        "title": "What's new in Google Compute Engine",
+        "description": "Google Compute Engine is an infrastructure service provided as part of the Google Cloud Platform. It is available at several Google data centers worldwide and is provided exclusively on an on-demand basis.",
+        "track": "Infrastructure",
+        "link": "https://www.youtube.com/embed/jQEOBQgRAWI",
+        "format": "Talk",
+        "date": "August 1st, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            105
+        ]
+    },
+    {
         "id": "106",
         "slide":"",
-        "title": "Reimagine Work with AI/ ML, Chatbots, & Connected Systems over G Suite",
-        "description": "This talk will enable businessmen to do \"EVERYTHING\" on G Suite, Google's Productivity, and Collaboration Suite. A complete Google Solution can lead to up to 2/3rd savings on Technology and up to 10X increase in productivity for organizations. In this talk, we shall focus on AI/ML facilities in G Suite, Chat Rooms, and Chatbots on Google Chat and how you can truly transform work by connecting your ERP/ CRM with G Suite and live and breath completely on Cloud.",
+        "title": "Data Analytics",
+        "description": "",
         "track": "Security",
         "link": "",
         "format": "Talk",
