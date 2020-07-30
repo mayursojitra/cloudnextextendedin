@@ -82,5 +82,19 @@
         "speakers": [
             106
         ]
+    },
+    {
+        "id": "107",
+        "slide":"",
+        "title": "Demistifying Containers",
+        "description": "",
+        "track": "Infrastructure",
+        "link": "https://www.youtube.com/embed/jQEOBQgRAWI",
+        "format": "Talk",
+        "date": "August 1st, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            107,108
+        ]
     }
 ]

@@ -45,6 +45,11 @@
                 "startTime": "15:00",
                 "endTime": "15:40",
                 "session": 105
+            },
+            {
+                "startTime": "15:40",
+                "endTime": "16:40",
+                "session": 107
             }
         ]
     },

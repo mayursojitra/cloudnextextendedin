@@ -98,5 +98,38 @@
         "sessionId": [
             106
         ]
+    },
+    {
+      "id": "107",
+      "name": "Dharmesh Vaya",
+      "company": {
+        "name": "Agrahyah Technologies",
+        "designation": "Director - Technology"
+      },
+      "image": "dharmesh.png",
+      "bio": "GDE Cloud/Payments",
+      "social": {
+        "twitter": "https://twitter.com/DRVaya",
+        "linkedin":"https://linkedin.com/in/dharmeshvaya/"
+      },
+      "sessionId": [
+          107
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Mohan Pawar",
+      "company": {
+        "name": "Continuum",
+        "designation": "DevOps Engineer"
+      },
+      "image": "mohan.jpeg",
+      "bio": "DevOps Engineer",
+      "social": {
+        "twitter": "https://twitter.com/mohan08p"
+      },
+      "sessionId": [
+          107
+      ]
     }
 ]
