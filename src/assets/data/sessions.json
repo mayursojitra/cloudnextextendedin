@@ -87,7 +87,7 @@
         "id": "107",
         "slide":"",
         "title": "Demistifying Containers",
-        "description": "",
+        "description": "Containers are quickly becoming an industry standard for the deployment of software applications. The business and technological advantages of containerizing workloads are driving many teams towards moving their applications to containers. Docker plays a vital role in putting up pieces together to easily running containers anywhere. Containerized applications have changed the game and are here to stay and have already become a de-facto standard for application delivery. With Kubernetes, you can orchestrate containers with ease, and integration with the Google Cloud Platform is seamless. It demonstrates the lifecycle of an application transitioning from a traditional VM/OS-based deployment to a specialized os for containers to a platform for containers better known as GKE.",
         "track": "Infrastructure",
         "link": "https://www.youtube.com/embed/jQEOBQgRAWI",
         "format": "Talk",
@@ -95,6 +95,34 @@
         "timeDuration": "40",
         "speakers": [
             107,108
+        ]
+    },
+    {
+        "id": "108",
+        "slide":"",
+        "title": "Using Skaffold for building and deploying applications to GKE",
+        "description": "Skaffold handles the workflow for building, pushing, and deploying your application, allowing you to focus on what matters most. Want to know the logic behind this magic? Great! Vishal Biyani from InfraCloud Technologies is here who possess vast experience in this field.",
+        "track": "Infrastructure",
+        "link": "https://www.youtube.com/embed/eI6LqmruIuo",
+        "format": "Talk",
+        "date": "August 2nd, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            109
+        ]
+    },
+    {
+        "id": "109",
+        "slide":"",
+        "title": "CDN Delivery on the go",
+        "description": "As the name implies, a Content Delivery Network is primarily responsible for delivering content such as web pages, images, videos, and data to users globally, by using a network of servers distributed throughout a number of different geographic locations. Sounds Great No? To know more about this under the hood technology, we have Praveen Thirumurugan from Caterpillar Inc. who sharing his insightful words.",
+        "track": "Infrastructure",
+        "link": "https://www.youtube.com/embed/eI6LqmruIuo",
+        "format": "Talk",
+        "date": "August 2nd, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            110
         ]
     }
 ]

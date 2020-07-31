@@ -57,7 +57,16 @@
         "day": "5",
         "date": "August 2nd 2020, Sunday",
         "schedule": [
-            
+            {
+                "startTime": "11:00",
+                "endTime": "11:40",
+                "session": 108
+            },
+            {
+                "startTime": "11:40",
+                "endTime": "12:20",
+                "session": 109
+            }
         ]
     },
     {

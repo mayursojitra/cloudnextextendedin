@@ -131,5 +131,37 @@
       "sessionId": [
           107
       ]
+    },
+    {
+      "id": "109",
+      "name": "Vishal Biyani",
+      "company": {
+        "name": "CloudInfra",
+        "designation": "CTO"
+      },
+      "image": "vishal.jpg",
+      "bio": "",
+      "social": {
+        "twitter": "https://twitter.com/vishal_biyani"
+      },
+      "sessionId": [
+          108
+      ]
+    },
+    {
+      "id": "110",
+      "name": "Praveen Thirumurugan",
+      "company": {
+        "name": "Catapillar Inc",
+        "designation": "SDE"
+      },
+      "image": "praveen.png",
+      "bio": "SDE, Catapillar Inc & Organizer, GDG Cloud Coimbatore",
+      "social": {
+        "twitter": "https://twitter.com/PraveenTcom"
+      },
+      "sessionId": [
+          109
+      ]
     }
 ]

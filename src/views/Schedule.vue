@@ -157,7 +157,7 @@
                       large
                       dark
                     >Register for 2nd August</v-btn>
-                    <ComingSoon :data="'26th July, 2020'"/>
+                    <ScheduleDetails :data="ScheduleData[4]" />
                   </v-col>
                 </v-row>
               </v-container>
