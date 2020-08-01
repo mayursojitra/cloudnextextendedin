@@ -238,7 +238,7 @@ export default {
     SocialShare: () => import("@/components/common/SocialShare")
   },
   data: () => ({
-    model: "day4",
+    model: "day5",
     ScheduleData: [],
   }),
   mounted() {
