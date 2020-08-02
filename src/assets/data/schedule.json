@@ -71,27 +71,29 @@
     },
     {
         "day": "6",
-        "date": "August 8th 2020, Saturday",
+        "date": "August 9th 2020, Sunday",
         "schedule": [
-            
+            {
+                "startTime": "15:30",
+                "endTime": "16:15",
+                "session": 110
+            },
+            {
+                "startTime": "16:15",
+                "endTime": "17:00",
+                "session": 111
+            }
         ]
     },
     {
         "day": "7",
-        "date": "August 9th 2020, Sunday",
-        "schedule": [
-            
-        ]
-    },
-    {
-        "day": "8",
         "date": "August 15th 2020, Saturday",
         "schedule": [
 
         ]
     },
     {
-        "day": "9",
+        "day": "8",
         "date": "August 16th 2020, Sunday",
         "schedule": [
             {

@@ -2,11 +2,11 @@
     <v-container fluid >
         <v-row>
             <v-col md="6" cols="12" sm="6">
-                <v-card class="pa-5 elevation-0" outlined :class="$vuetify.theme.dark == true ? 'darkModeCard' : 'whiteThemeCard'" rel="noreferrer" href="https://twitter.com/GDGNagpur_" target="_blank">
+                <v-card class="pa-5 elevation-0" outlined :class="$vuetify.theme.dark == true ? 'darkModeCard' : 'whiteThemeCard'" rel="noreferrer" href="https://twitter.com/GDGCloudMumbai" target="_blank">
                     <v-icon x-large color="#00acee">mdi-twitter</v-icon>
                     <h2 class="google-font mt-2 mb-2">Stay connected</h2>
                     <p class="google-font">Keep up with the latest Google Cloud Next Extended'20 news and announcements. Join the conversation on Twitter.</p>
-                    <p class="google-font mt-5 mb-0" style="font-size:120%">Follow <b>@GDGNagpur_</b></p>
+                    <p class="google-font mt-5 mb-0" style="font-size:120%">Follow <b>@GDGCloudMumbai</b></p>
                 </v-card>
             </v-col>
             <v-col md="6" cols="12" sm="6">

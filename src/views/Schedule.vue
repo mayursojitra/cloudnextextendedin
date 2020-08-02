@@ -51,15 +51,12 @@
                   2 August
                 </v-tab>
                 <v-tab href="#day6">
-                  8 August
-                </v-tab>
-                <v-tab href="#day7">
                   9 August
                 </v-tab>
-                <v-tab href="#day8">
+                <v-tab href="#day7">
                   15 August
                 </v-tab>
-                <v-tab href="#day9">
+                <v-tab href="#day8">
                   16 August
                 </v-tab>
               </v-tabs>
@@ -170,7 +167,18 @@
                     <p class="google-font" style="text-align:justify;">
                       Detect, investigate, and respond to online threats to help protect your business.
                     </p>
-                    <ComingSoon :data="'30th July, 2020'"/>
+                    <v-btn
+                      href="https://www.meetup.com/Google-Cloud-Developer-Community-Mumbai/events/272313391/"
+                      target="_blank"
+                      aria-label="Home BTN"
+                      color="primary"
+                      style="text-transform: capitalize;"
+                      class="google-font mr-4 mt-2"
+                      depressed
+                      large
+                      dark
+                    >Register for 9th August</v-btn>
+                    <ScheduleDetails :data="ScheduleData[5]" />
                   </v-col>
                 </v-row>
               </v-container>
@@ -183,25 +191,12 @@
                     <p class="google-font" style="text-align:justify;">
                       Detect, investigate, and respond to online threats to help protect your business.
                     </p>
-                    <ComingSoon :data="'30th July, 2020'"/>
-                  </v-col>
-                </v-row>
-              </v-container>
-            </v-tab-item>
-            <v-tab-item value="day8" :class="$vuetify.theme.dark ? 'black' : 'white'">
-              <v-container>
-                <v-row>
-                  <v-col>
-                    <h3 class="google-font">Security</h3>
-                    <p class="google-font" style="text-align:justify;">
-                      Detect, investigate, and respond to online threats to help protect your business.
-                    </p>
                     <ComingSoon :data="'2nd August, 2020'"/>
                   </v-col>
                 </v-row>
               </v-container>
             </v-tab-item>
-            <v-tab-item value="day9" :class="$vuetify.theme.dark ? 'black' : 'white'">
+            <v-tab-item value="day8" :class="$vuetify.theme.dark ? 'black' : 'white'">
               <v-container>
                 <v-row>
                   <v-col>
@@ -238,7 +233,7 @@ export default {
     SocialShare: () => import("@/components/common/SocialShare")
   },
   data: () => ({
-    model: "day5",
+    model: "day6",
     ScheduleData: [],
   }),
   mounted() {

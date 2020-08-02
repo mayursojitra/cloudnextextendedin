@@ -50,7 +50,7 @@
           </span>
         </p>
           <v-btn
-            href="https://www.meetup.com/GDG-Nagpur/events/272140921/"
+            href="https://www.meetup.com/Google-Cloud-Developer-Community-Mumbai/events/272313391/"
             target="_blank"
             aria-label="Home BTN"
             color="primary"
@@ -59,18 +59,7 @@
             depressed
             large
             dark
-          >Register for 1st August</v-btn>
-          <v-btn
-            href="https://www.meetup.com/GDG-Nagpur/events/272140971/"
-            target="_blank"
-            aria-label="Home BTN"
-            color="primary"
-            style="text-transform: capitalize;"
-            class="google-font mr-4 mt-2"
-            depressed
-            large
-            dark
-          >Register for 2nd August</v-btn>
+          >Register for 9th August</v-btn>
         <v-btn
           href="https://www.youtube.com/channel/UC9wSs8WwgTzFMjI8zRjHV9w"
           target="_blank"

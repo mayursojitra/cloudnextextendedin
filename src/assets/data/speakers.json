@@ -163,5 +163,37 @@
       "sessionId": [
           109
       ]
+    },
+    {
+      "id": "111",
+      "name": "Akash Agarwal",
+      "company": {
+        "name": "Google Cloud",
+        "designation": "Google Developer Expert"
+      },
+      "image": "aakash.jpg",
+      "bio": "Google Expert for Cloud",
+      "social": {
+        "twitter": "https://twitter.com/akkiagrawal29"
+      },
+      "sessionId": [
+          110
+      ]
+    },
+    {
+      "id": "112",
+      "name": "KC Ayyagiri",
+      "company": {
+        "name": "Google",
+        "designation": "Cloud Specialist"
+      },
+      "image": "kc.jpeg",
+      "bio": "Cloud Specialist at Google",
+      "social": {
+        "twitter": "https://twitter.com/kc_ayyagari"
+      },
+      "sessionId": [
+          111
+      ]
     }
 ]

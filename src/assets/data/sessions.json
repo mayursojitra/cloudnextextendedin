@@ -124,5 +124,33 @@
         "speakers": [
             110
         ]
+    },
+    {
+        "id": "110",
+        "slide":"",
+        "title": "Securing Cloud-Native Applications on GCP",
+        "description": "Understanding the fundamentals of GCP Security. Building Cloud-Native Applications & Security Design",
+        "track": "Security",
+        "link": "https://www.youtube.com/embed/VhLiiYj7dmM",
+        "format": "Talk",
+        "date": "August 9th, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            111
+        ]
+    },
+    {
+        "id": "111",
+        "slide":"",
+        "title": "Leveraging GCP for Security in Your Next Project",
+        "description": "Secure your apps intelligently with Command Center, Data protection, IAM recommendation, Security Analytics",
+        "track": "Security",
+        "link": "https://www.youtube.com/embed/VhLiiYj7dmM",
+        "format": "Talk",
+        "date": "August 2nd, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            112
+        ]
     }
 ]
