@@ -68,16 +68,6 @@
             class="mr-3 google-font"
             style="text-decoration:none;"
           >Google Developers</a>
-          <span style="float:right"> Build by <a href="https://webdevlivein.web.app/" target="_blank"
-            rel="noreferrer"
-            :class="
-                $vuetify.theme.dark == true
-                  ? 'white--text'
-                  : 'grey--text text--darken-3'
-              "
-            class="mr-3 google-font"
-            style="text-decoration:none;"
-          >Web.dev Live India Team</a></span>
         </v-col>
       </v-row>
     </v-container>
