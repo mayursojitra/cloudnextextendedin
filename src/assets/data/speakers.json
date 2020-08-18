@@ -195,5 +195,39 @@
       "sessionId": [
           111
       ]
+    },
+    {
+      "id": "113",
+      "name": "Pradeep Bhadani",
+      "company": {
+        "name": "Cloud Native Technologies",
+        "designation": "GDE, Google Cloud & Founder"
+      },
+      "image": "bhadanipradeep.jpg",
+      "bio": "Pradeep Bhadani is an IT Consultant with over 9-years of experience and founded Cloud Native Technologies to fill the Cloud skills-gap by providing tailored Training and Consultancy. He is a HashiCorp Ambassador, Google Cloud Authorized Trainer and Google Developers Expert in Cloud. He has extensive experience in building Data Platforms on Cloud and On-premises with great use of automation, delivering technical training. He is a conceptual thinker who effectively partners with architects and senior management to deliver successful projects.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/pradeepbhadani/",
+        "twitter": "https://twitter.com/bhadanipradeep"
+      },
+      "sessionId": [
+          112
+      ]
+    },
+    {
+      "id": "114",
+      "name": "Nirav Kothari",
+      "company": {
+        "name": "Xoriant Solutions",
+        "designation": "Sr Technical Lead"
+      },
+      "image": "nirav_kothari.jpg",
+      "bio": "Learn Share and Learn",
+      "social": {
+        "twitter": "https://twitter.com/iNiravKothari",
+        "linkedin": "https://www.linkedin.com/in/iniravkothari"
+      },
+      "sessionId": [
+          113
+      ]
     }
 ]

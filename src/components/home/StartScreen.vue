@@ -50,7 +50,7 @@
           </span>
         </p>
           <v-btn
-            href="https://www.meetup.com/Google-Cloud-Developer-Community-Mumbai/events/272313391/"
+            href="https://bit.ly/gdgcBQmt"
             target="_blank"
             aria-label="Home BTN"
             color="primary"
@@ -59,7 +59,7 @@
             depressed
             large
             dark
-          >Register for 9th August</v-btn>
+          >Register for 22nd August</v-btn>
         <v-btn
           href="https://www.youtube.com/channel/UC9wSs8WwgTzFMjI8zRjHV9w"
           target="_blank"

@@ -72,10 +72,10 @@
     {
         "id": "106",
         "slide":"",
-        "title": "Data Analytics",
+        "title": "Big Query + Auto ML",
         "description": "",
-        "track": "Security",
-        "link": "",
+        "track": "Data Analytics",
+        "link": "https://www.youtube.com/embed/wUUHovScvCs",
         "format": "Talk",
         "date": "August 16th, 2020",
         "timeDuration": "40",
@@ -151,6 +151,34 @@
         "timeDuration": "40",
         "speakers": [
             112
+        ]
+    },
+    {
+        "id": "112",
+        "slide":"",
+        "title": "Getting started with BigQuery",
+        "description": "",
+        "track": "Data Management & Database",
+        "link": "https://www.youtube.com/embed/kM0INWKf31w",
+        "format": "Talk",
+        "date": "August 22nd, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            113
+        ]
+    },
+    {
+        "id": "113",
+        "slide":"",
+        "title": "Build scalable IOT systems with GCP",
+        "description": "",
+        "track": "Data Analytics",
+        "link": "https://www.youtube.com/embed/wUUHovScvCs",
+        "format": "Talk",
+        "date": "August 16th, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            114
         ]
     }
 ]

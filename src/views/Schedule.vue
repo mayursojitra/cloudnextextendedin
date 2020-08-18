@@ -54,10 +54,10 @@
                   9 August
                 </v-tab>
                 <v-tab href="#day7">
-                  15 August
+                  16 August
                 </v-tab>
                 <v-tab href="#day8">
-                  16 August
+                  22 August
                 </v-tab>
               </v-tabs>
             </template>
@@ -187,11 +187,22 @@
               <v-container>
                 <v-row>
                   <v-col>
-                    <h3 class="google-font">Security</h3>
+                    <h3 class="google-font">Data Analytics</h3>
                     <p class="google-font" style="text-align:justify;">
                       Detect, investigate, and respond to online threats to help protect your business.
                     </p>
-                    <ComingSoon :data="'2nd August, 2020'"/>
+                    <v-btn
+                      href="https://www.meetup.com/GDG-Gandhinagar/events/272523279/"
+                      target="_blank"
+                      aria-label="Home BTN"
+                      color="primary"
+                      style="text-transform: capitalize;"
+                      class="google-font mr-4 mt-2"
+                      depressed
+                      large
+                      dark
+                    >Register for 16th August</v-btn>
+                    <ScheduleDetails :data="ScheduleData[6]" />
                   </v-col>
                 </v-row>
               </v-container>
@@ -200,11 +211,22 @@
               <v-container>
                 <v-row>
                   <v-col>
-                    <h3 class="google-font">Security</h3>
+                    <h3 class="google-font">Data Management & Database</h3>
                     <p class="google-font" style="text-align:justify;">
-                      Detect, investigate, and respond to online threats to help protect your business.
+                      Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.
                     </p>
-                    <ScheduleDetails :data="ScheduleData[8]" />
+                    <v-btn
+                      href="https://bit.ly/gdgcBQmt"
+                      target="_blank"
+                      aria-label="Home BTN"
+                      color="primary"
+                      style="text-transform: capitalize;"
+                      class="google-font mr-4 mt-2"
+                      depressed
+                      large
+                      dark
+                    >Register for 22nd August</v-btn>
+                    <ScheduleDetails :data="ScheduleData[7]" />
                   </v-col>
                 </v-row>
               </v-container>
@@ -229,11 +251,11 @@ export default {
   name: "",
   components: {
     ScheduleDetails,
-    ComingSoon:()=>import('@/components/common/ComingSoon'),
+    //ComingSoon:()=>import('@/components/common/ComingSoon'),
     SocialShare: () => import("@/components/common/SocialShare")
   },
   data: () => ({
-    model: "day6",
+    model: "day8",
     ScheduleData: [],
   }),
   mounted() {
