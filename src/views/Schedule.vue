@@ -59,6 +59,9 @@
                 <v-tab href="#day8">
                   22 August
                 </v-tab>
+                <v-tab href="#day9">
+                  29 August
+                </v-tab>
               </v-tabs>
             </template>
           </v-toolbar>
@@ -231,6 +234,30 @@
                 </v-row>
               </v-container>
             </v-tab-item>
+            <v-tab-item value="day9" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Applicaiton Modernization</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Develop and run applications using open source and other software without operations staff.
+                    </p>
+                    <v-btn
+                      href="http://bit.ly/gdganthos"
+                      target="_blank"
+                      aria-label="Home BTN"
+                      color="primary"
+                      style="text-transform: capitalize;"
+                      class="google-font mr-4 mt-2"
+                      depressed
+                      large
+                      dark
+                    >Register for 29th August</v-btn>
+                    <ScheduleDetails :data="ScheduleData[8]" />
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
           </v-tabs-items>
         </v-col>
       </v-row>
@@ -255,7 +282,7 @@ export default {
     SocialShare: () => import("@/components/common/SocialShare")
   },
   data: () => ({
-    model: "day8",
+    model: "day9",
     ScheduleData: [],
   }),
   mounted() {

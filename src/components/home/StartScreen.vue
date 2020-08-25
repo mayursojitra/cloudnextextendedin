@@ -50,7 +50,7 @@
           </span>
         </p>
           <v-btn
-            href="https://bit.ly/gdgcBQmt"
+            href="http://bit.ly/gdganthos"
             target="_blank"
             aria-label="Home BTN"
             color="primary"
@@ -59,7 +59,7 @@
             depressed
             large
             dark
-          >Register for 22nd August</v-btn>
+          >Register for 29th August</v-btn>
         <v-btn
           href="https://www.youtube.com/channel/UC9wSs8WwgTzFMjI8zRjHV9w"
           target="_blank"

@@ -111,5 +111,16 @@
                 "session": 112
             }
         ]
+    },
+    {
+        "day": "9",
+        "date": "August 29th 2020, Saturday",
+        "schedule": [
+            {
+                "startTime": "17:00",
+                "endTime": "17:40",
+                "session": 114
+            }
+        ]
     }
 ]

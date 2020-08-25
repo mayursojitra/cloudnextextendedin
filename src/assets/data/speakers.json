@@ -229,5 +229,21 @@
       "sessionId": [
           113
       ]
+    },
+    {
+      "id": "115",
+      "name": "Kaivalya Shah",
+      "company": {
+        "name": "Deloitte India",
+        "designation": "Cloud Consultant"
+      },
+      "image": "kaivalya_shah.jpeg",
+      "bio": "Deloitte Cloud | 5 GCP, 6 AWS, CKA Certified | Open Source Contributer",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/kaivalyashah/"
+      },
+      "sessionId": [
+          114
+      ]
     }
 ]
