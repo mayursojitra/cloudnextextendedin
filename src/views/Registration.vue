@@ -33,11 +33,11 @@
           <p class="google-font mt-4" v-if="!formSubmitted" style="font-size:110%">
             Connect with us at
             <a
-              href="https://twitter.com/gdgcloudindore"
+              href="https://twitter.com/GDGCloudAhm"
               rel="noreferrer"
               target="_blank"
               style="text-decoration:none;"
-            >@gdgcloudindore</a> for the
+            >@GDGCloudAhm</a> for the
             latest updates.
             <br />For any query, contact us at:
             <a
@@ -408,7 +408,7 @@
           <p class="google-font" style="font-size:110%">
             Thank you for registering for
             <a
-              href="https://twitter.com/gdgcloudindore"
+              href="https://twitter.com/GDGCloudAhm"
               rel="noreferrer"
               target="_blank"
               style="text-decoration:none"
@@ -450,11 +450,11 @@
             <br />
             <br />Connect with us at
             <a
-              href="https://twitter.com/gdgcloudindore"
+              href="https://twitter.com/GDGCloudAhm"
               rel="noreferrer"
               target="_blank"
               style="text-decoration:none;"
-            >@gdgcloudindore</a>
+            >@GDGCloudAhm</a>
             for the latest updates.
             <br />
             <b>#GoogleCloudNextExtended #GoogleCloudNext #GDGWestIndia</b>
