@@ -187,7 +187,7 @@
         "title": "Application Modernization using Anthos",
         "description": "Here we bring 'Anthos' Google Cloud's Application Modernization platform which will help you to modernize existing applications and build cloud-native apps anywhere to promote agility and cost savings. We are going to learn Config Management, Service Mesh, and Migrate services and some solutions that can be built using Anthos.",
         "track": "Application Modernization",
-        "link": "",
+        "link": "https://www.youtube.com/embed/LEb5zTCn-xY",
         "format": "Talk",
         "date": "August 29th, 2020",
         "timeDuration": "40",
