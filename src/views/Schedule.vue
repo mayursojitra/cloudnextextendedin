@@ -62,6 +62,9 @@
                 <v-tab href="#day9">
                   29 August
                 </v-tab>
+                <v-tab href="#day10">
+                  12 September
+                </v-tab>
               </v-tabs>
             </template>
           </v-toolbar>
@@ -258,6 +261,30 @@
                 </v-row>
               </v-container>
             </v-tab-item>
+            <v-tab-item value="day10" :class="$vuetify.theme.dark ? 'black' : 'white'">
+              <v-container>
+                <v-row>
+                  <v-col>
+                    <h3 class="google-font">Business Applicaiton Platform</h3>
+                    <p class="google-font" style="text-align:justify;">
+                      Design, secure, analyze, and scale APIs anywhere with visibility and control.
+                    </p>
+                    <v-btn
+                      href="https://gdg.community.dev/events/details/google-gdg-goa-presents-cloud-next-on-air-extended-by-gdg-west/"
+                      target="_blank"
+                      aria-label="Home BTN"
+                      color="primary"
+                      style="text-transform: capitalize;"
+                      class="google-font mr-4 mt-2"
+                      depressed
+                      large
+                      dark
+                    >Register for 12th September</v-btn>
+                    <ScheduleDetails :data="ScheduleData[9]" />
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
           </v-tabs-items>
         </v-col>
       </v-row>
@@ -282,7 +309,7 @@ export default {
     SocialShare: () => import("@/components/common/SocialShare")
   },
   data: () => ({
-    model: "day9",
+    model: "day10",
     ScheduleData: [],
   }),
   mounted() {

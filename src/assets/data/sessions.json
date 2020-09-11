@@ -194,5 +194,33 @@
         "speakers": [
             115
         ]
+    },
+    {
+        "id": "115",
+        "slide":"",
+        "title": "AppSheet: No-code app development",
+        "description": "",
+        "track": "Business Application Platform",
+        "link": "https://www.youtube.com/embed/lN4ujvot5iY",
+        "format": "Talk",
+        "date": "September 12th, 2020",
+        "timeDuration": "40",
+        "speakers": [
+            107
+        ]
+    },
+    {
+        "id": "116",
+        "slide":"",
+        "title": "Chatbots on Dialogflow",
+        "description": "",
+        "track": "Business Application Platform",
+        "link": "https://www.youtube.com/embed/lN4ujvot5iY",
+        "format": "Talk",
+        "date": "September 12th, 2020",
+        "timeDuration": "10",
+        "speakers": [
+            116
+        ]
     }
 ]

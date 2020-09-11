@@ -50,7 +50,7 @@
           </span>
         </p>
           <v-btn
-            href="http://bit.ly/gdganthos"
+            href="https://gdg.community.dev/events/details/google-gdg-goa-presents-cloud-next-on-air-extended-by-gdg-west/"
             target="_blank"
             aria-label="Home BTN"
             color="primary"
@@ -59,7 +59,7 @@
             depressed
             large
             dark
-          >Register for 29th August</v-btn>
+          >Register for 12th September</v-btn>
         <v-btn
           href="https://www.youtube.com/channel/UC9wSs8WwgTzFMjI8zRjHV9w"
           target="_blank"

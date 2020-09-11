@@ -113,7 +113,7 @@
         "linkedin":"https://linkedin.com/in/dharmeshvaya/"
       },
       "sessionId": [
-          107
+          107,115
       ]
     },
     {
@@ -244,6 +244,22 @@
       },
       "sessionId": [
           114
+      ]
+    },
+    {
+      "id": "116",
+      "name": "Gajesh Naik",
+      "company": {
+        "name": "People’s High School Panaji",
+        "designation": "Student & Programmer"
+      },
+      "image": "Gajesh.jpg",
+      "bio": "Gajesh is a propounder of open source technology including Linux operating system.",
+      "social": {
+        
+      },
+      "sessionId": [
+          116
       ]
     }
 ]

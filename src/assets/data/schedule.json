@@ -122,5 +122,21 @@
                 "session": 114
             }
         ]
+    },
+    {
+        "day": "10",
+        "date": "September 12th 2020, Saturday",
+        "schedule": [
+            {
+                "startTime": "16:00",
+                "endTime": "16:40",
+                "session": 115
+            },
+            {
+                "startTime": "16:40",
+                "endTime": "16:55",
+                "session": 116
+            }
+        ]
     }
 ]
